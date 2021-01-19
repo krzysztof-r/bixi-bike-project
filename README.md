@@ -1,3 +1,3 @@
-# Bixi Bike Analysis - Part 1
+# Bixi Bike Analysis
 
-Part 1 of the Bixi Bike Analysis Deliverable
+Bixi Bike Analysis Deliverable
